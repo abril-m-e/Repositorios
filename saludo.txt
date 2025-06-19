@@ -1,4 +1,3 @@
 hola 
 como estas?
-
-git status
+ccvbv
