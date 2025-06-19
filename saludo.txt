@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hola 
+=======
+hola 
+como estas?
+ccvbv
+>>>>>>> c48e3994a8d47e8a052b2c5129d63e922de03496
